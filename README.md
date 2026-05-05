@@ -1,12 +1,12 @@
-# 📊 Customer Segmentation using Machine Learning
+# Customer Segmentation using Machine Learning
 
-## 📌 Overview
+##  Overview
 
 This project performs customer segmentation using transaction data to identify different customer groups based on purchasing behavior.
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 * Python
 * Pandas
@@ -16,13 +16,13 @@ This project performs customer segmentation using transaction data to identify d
 
 ---
 
-## 🤖 Algorithm Used
+##  Algorithm Used
 
 * K-Means Clustering
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 * Majority customers belong to **Low Value segment**
 * High-value customers are fewer but generate high revenue
@@ -31,9 +31,9 @@ This project performs customer segmentation using transaction data to identify d
 
 ---
 
-## 🖼 Visualizations
+##  Visualizations
 
-### 🌍 Top Countries by Revenue
+###  Top Countries by Revenue
 
 ![Countries](country_revenue.png)
 
